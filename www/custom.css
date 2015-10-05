@@ -1,0 +1,25 @@
+a.menutoggle
+{
+z-index:1000000000000000;
+background-image: url("http://www.anime-types.com/media/images/icon.png") !important;
+background-position: center center;
+background-repeat: no-repeat;
+}
+
+.fa-bars
+{
+visibility:hidden !important;
+display: none !important;
+background-image:none !important;
+}
+
+.type-filter li a, .mbti-type
+{
+font-weight:100 !important;
+color:#8f939e !important;
+}
+
+.type-filter li a.active-filter
+{
+color:white !important;
+}

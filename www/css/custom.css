@@ -1,0 +1,81 @@
+a.menutoggle
+{
+z-index:1000000000000000;
+background-image: url("http://www.anime-types.com/media/images/icon.png") !important;
+background-position: center center;
+background-repeat: no-repeat;
+}
+
+.fa-bars
+{
+visibility:hidden !important;
+display: none !important;
+background-image:none !important;
+}
+
+.type-filter li a, .mbti-type
+{
+font-weight:100 !important;
+color:#8f939e !important;
+}
+
+.type-filter li a.active-filter
+{
+color:white !important;
+}
+
+div.pageheader
+{
+background-position:center center;
+height:300px !important;
+}
+
+.detail-content
+{
+padding:15px !important;
+}
+
+ul.quotes-container 
+{
+list-style-type: none;
+  margin-top: 10px;
+  padding-top:5px;
+  background-color: #151a22 !important;
+  width: 100% !important;
+  
+}
+
+ul.quotes-container li.quote
+{
+margin-top: 15px !important;
+text-align: center !important;
+padding-left: 40px !important;
+padding-right: 40px !important;
+border: none !important;
+min-height: 5% !important;
+color: #151a22 !important;
+}
+
+.fa-quote-left
+{
+left:5px;
+float:left;
+margin-left: 10px;
+position:absolute;
+}
+
+.fa-quote-right
+{
+right:0px;
+float:right;
+margin-right: 10px;
+position:absolute;
+margin-top: 6px !important;
+}
+
+h2.item-detail-title
+{
+margin-top: 10px !important;
+margin-bottom: 7px !important;
+letter-spacing: 4px;
+}
