@@ -105,23 +105,9 @@ $siteController->init();
 
                 <h5 class="sidebartitle">Navigation</h5>
                 <ul class="nav nav-pills nav-stacked nav-bracket">
-                    <li> <a><i class="fa fa-bars"></i> </a></li>
                     <?php foreach($siteController->_menuItems as $menuItem): ?>
                         <li><a class="menu-item" href="<?php echo$menuItem['menu_href'];?>"><i class="fa <?php echo $menuItem['menu_icon_class'];?>"></i> <span><?php echo $menuItem['menu_label']; ?></span></a></li>
                     <?php endforeach; ?>
-
-                    <li class="nav-parent"><a href=""><i class="fa fa-edit"></i> <span>Forms</span></a>
-                        <ul class="children">
-                            <li><a href="#general-forms.html" class="menu-item"><i class="fa fa-caret-right"></i> General Forms</a></li>
-                            <li><a href="#form-layouts.html" class="menu-item"><i class="fa fa-caret-right"></i> Form Layouts</a></li>
-                            <li><a href="#form-validation.html" class="menu-item"><i class="fa fa-caret-right"></i> Form Validation</a></li>
-                            <li><a href="#form-wizards.html" class="menu-item"><i class="fa fa-caret-right"></i> Form Wizards</a></li>
-                            <li><a href="#wysiwyg.html" class="menu-item"><i class="fa fa-caret-right"></i> Text Editor</a></li>
-                            <li><a href="#code-editor.html" class="menu-item"><i class="fa fa-caret-right"></i> Code Editor</a></li>
-                            <li><a href="#x-editable.html" class="menu-item"><i class="fa fa-caret-right"></i> X-Editable</a></li>
-                        </ul>
-
-                    </li>
 
                 </ul>
 
