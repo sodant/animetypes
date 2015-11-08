@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54067374-8598-4728-a471-5eadbe6e3633" name="Default" comment="" />
+    <ignored path="animetypes.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="animetypes" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.724138">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="charactersave.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/charactersave.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.653847">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="characterdelete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/characterdelete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractAdapter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/private/lib/data/AbstractAdapter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MysqliAdapter.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/private/lib/data/MysqliAdapter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.2789352">
+              <caret line="141" column="53" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
+              <folding>
+                <marker date="1446830419406" expanded="true" signature="980:1472" placeholder="SELECT `char..." />
+                <marker date="1446830419406" expanded="true" signature="1932:1998" placeholder="SELECT * FRO..." />
+                <marker date="1446830419406" expanded="true" signature="2452:2472" placeholder="SELECT * FRO..." />
+                <marker date="1446830419406" expanded="true" signature="2908:2955" placeholder="SELECT * FRO..." />
+                <marker date="1446830419406" expanded="true" signature="3352:3400" placeholder="DELETE FROM ..." />
+                <marker date="1446830419406" expanded="true" signature="3358:3375" placeholder="SELECT * FRO..." />
+                <marker date="1446830419406" expanded="true" signature="3834:3874" placeholder="DELETE FROM ..." />
+                <marker date="1446830419406" expanded="true" signature="4757:4855" placeholder="INSERT INTO ..." />
+                <marker date="1446830419406" expanded="true" signature="5527:5605" placeholder="SELECT `char..." />
+                <marker date="1446830419406" expanded="true" signature="5527:6370" placeholder="SELECT * FRO..permlog..." />
+                <marker date="1446830419406" expanded="true" signature="6523:6586" placeholder="DELETE FROM ..." />
+                <marker date="1446830419406" expanded="true" signature="6901:6978" placeholder="INSERT INTO ..." />
+                <marker date="1446830419406" expanded="true" signature="6978:7023" placeholder="INSERT INTO ..." />
+                <marker date="1446830419406" expanded="true" signature="7464:7496" placeholder="INSERT INTO ..." />
+                <marker date="1446830419406" expanded="true" signature="8295:8669" placeholder="SELECT `char..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/manage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.218182">
+              <caret line="477" column="66" selection-start-line="477" selection-start-column="66" selection-end-line="477" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#3;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1447013042771" expanded="true" signature="2477:2496" placeholder="..." />
+                <marker date="1447013042771" expanded="true" signature="3891:3954" placeholder="..." />
+                <marker date="1447013042771" expanded="true" signature="4164:4191" placeholder="..." />
+                <marker date="1447013042771" expanded="true" signature="4967:5169" placeholder="..." />
+                <marker date="1447013042771" expanded="true" signature="6762:6793" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animedelete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/animedelete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.9230769">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animesave.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/animesave.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/js/components/model/item.js" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/lib/components/model/item.js" />
+        <option value="$PROJECT_DIR$/private/config.php" />
+        <option value="$PROJECT_DIR$/d.html" />
+        <option value="$PROJECT_DIR$/d.php" />
+        <option value="$PROJECT_DIR$/www/lib/app.js" />
+        <option value="$PROJECT_DIR$/www/lib/components/itemgrid.js" />
+        <option value="$PROJECT_DIR$/www/custom.css" />
+        <option value="$PROJECT_DIR$/www/css/custom.css" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/anime.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/manage/anime.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/manage/manage.php" />
+        <option value="$PROJECT_DIR$/www/index.php" />
+        <option value="$PROJECT_DIR$/private/lib/model/Anime.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/MultiFielder.js" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/js/MultiFielder.js" />
+        <option value="$PROJECT_DIR$/private/lib/data/MysqliAdapter.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/index.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/service/animedelete.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/service/animesave.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/service/characterdelete.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/service/charactersave.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/logout.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/manage.php" />
+        <option value="$PROJECT_DIR$/www/intuitioncms/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intuitioncms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intuitioncms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intuitioncms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="animetypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mick_\Documents\Projects\Animetypes\animetypes\www\intuitioncms\service" />
+      <recent name="C:\Users\mick_\Documents\Projects\Animetypes\animetypes\www\intuitioncms\img" />
+      <recent name="C:\Users\mick_\Documents\Projects\Animetypes\animetypes\www\intuitioncms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mick_\Documents\Projects\Animetypes\animetypes\www\intuitioncms\js" />
+      <recent name="C:\Users\mick_\Documents\Projects\Animetypes\animetypes\www\intuitioncms" />
+      <recent name="C:\Users\mick_\Documents\Projects\Animetypes\animetypes\www\intuitioncms\manage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="7d382acc-f214-4f1c-91bb-b49048c3f831" server_name="animetypes">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54067374-8598-4728-a471-5eadbe6e3633" name="Default" comment="" />
+      <created>1444078778983</created>
+      <option name="number" value="Default" />
+      <updated>1444078778983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15989584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15989584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="php">
+          <url>file://$PROJECT_DIR$/www/index.php</url>
+          <log-expression expression="&lt;?php&#10;include(&quot;../private/config.php&quot;);&#10;include(&quot;SiteController.php&quot;);&#10;&#10;$siteController = new \controller\SiteController();&#10;$siteController-&gt;init();&#10;?&gt;&#10;&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot; class=&quot; js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths&quot; ng-app=&quot;animeTypes&quot;&gt;&#10;    &lt;head&gt;&#10;        &lt;meta charset=&quot;utf-8&quot;&gt;&#10;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, maximum-scale=1.0&quot;&gt;&#10;        &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;&#10;        &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;&#10;&#10;        &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.png&quot; type=&quot;image/png&quot;&gt;&#10;&#10;        &lt;title&gt;Anime-types.com&lt;/title&gt;&#10;&#10;        &lt;link href=&quot;css/style.default.css&quot; rel=&quot;stylesheet&quot;&gt;&#10;&#10;&#10;        &lt;!-- controllers --&gt;&#10;        &lt;script src=&quot;app/controllers/characterctrl.js&quot;&gt;&lt;/script&gt;&#10;&#10;        &lt;!-- Components --&gt;&#10;        &lt;script src=&quot;lib/ajax/dataprovider.js&quot;&gt;&lt;/script&gt;&#10;        &lt;script src=&quot;lib/components/itemgrid.js&quot;&gt;&lt;/script&gt;&#10;        &lt;script src=&quot;lib/components/itemdetailmodal.js&quot;&gt;&lt;/script&gt;&#10;        &lt;script src=&quot;lib/components/model/item.js&quot;&gt;&lt;/script&gt;&#10;&#10;&#10;&#10;        &lt;!-- Global variables --&gt;&#10;        &lt;script type=&quot;application/javascript&quot;&gt;&#10;            &lt;?php foreach($configVariables as $variableName =&gt; $value): ?&gt;&#10;            var &lt;?php echo($variableName);?&gt; = &quot;&lt;?php echo($value);?&gt;&quot;;&#10;            &lt;?php endforeach; ?&gt;&#10;&#10;            var mbtiTypes = &lt;?php echo json_encode($mbtiTypes); ?&gt;;&#10;&#10;        &lt;/script&gt;&#10;&#10;        &lt;!-- App --&gt;&#10;        &lt;!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --&gt;&#10;        &lt;!--[if lt IE 9]&gt;&#10;        &lt;script src=&quot;lib/html5shiv.js&quot;&gt;&lt;/script&gt;&#10;        &lt;script src=&quot;lib/respond.min.js&quot;&gt;&lt;/script&gt;&#10;&#10;&#10;        &lt;![endif]--&gt;&#10;        &lt;style type=&quot;text/css&quot;&gt;.jqstooltip { position: absolute;left: 0px;top: 0px;visibility: hidden;background: rgb(0, 0, 0) transparent;background-color: rgba(0,0,0,0.6);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);-ms-filter: &quot;progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)&quot;;color: white;font: 10px arial, san serif;text-align: left;white-space: nowrap;padding: 5px;border: 1px solid white;z-index: 10000;}.jqsfield { color: white;font: 10px arial, san serif;text-align: left;}&lt;/style&gt;&lt;style id=&quot;holderjs-style&quot; type=&quot;text/css&quot;&gt;.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}&lt;/style&gt;&#10;    &lt;/head&gt;&#10;&#10;    &lt;body style=&quot;overflow: visible;&quot;&gt;&#10;&#9;&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;&#10;&lt;script&gt;(function(d, s, id) {&#10;  var js, fjs = d.getElementsByTagName(s)[0];&#10;  if (d.getElementById(id)) return;&#10;  js = d.createElement(s); js.id = id;&#10;  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=452672408119936&quot;;&#10;  fjs.parentNode.insertBefore(js, fjs);&#10;}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;&#10;    &lt;!-- Preloader --&gt;&#10;    &lt;div id=&quot;preloader&quot; style=&quot;display: none;&quot;&gt;&#10;        &lt;div id=&quot;status&quot;&gt;&lt;i class=&quot;fa fa-spinner fa-spin&quot;&gt;&lt;/i&gt;&lt;/div&gt;&#10;    &lt;/div&gt;&#10;    &lt;a class=&quot;menutoggle&quot;&gt;&#10;        &lt;i class=&quot;fa fa-bars&quot;&gt;&lt;/i&gt;&#10;    &lt;/a&gt;&#10;&#10;&#10;&#10;    &lt;section&gt;&#10;&#10;    &lt;div class=&quot;mainpanel&quot;&gt;&#10;&#10;        &lt;div class=&quot;leftpanel&quot;&gt;&#10;&#10;            &lt;div class=&quot;logopanel&quot;&gt;&#10;                &lt;a class=&quot;menutoggle&quot;&gt;&lt;i class=&quot;fa fa-bars&quot;&gt;&lt;/i&gt;&lt;/a&gt;&#10;            &lt;/div&gt;&lt;!-- logopanel --&gt;&#10;&#10;            &lt;div class=&quot;leftpanelinner&quot;&gt;&#10;&#10;                &lt;!-- This is only visible to small devices --&gt;&#10;                &lt;div class=&quot;visible-xs hidden-sm hidden-md hidden-lg&quot;&gt;&#10;                    &lt;div class=&quot;media userlogged&quot;&gt;&#10;                        &lt;img alt=&quot;&quot; src=&quot;images/photos/loggeduser.png&quot; class=&quot;media-object&quot;&gt;&#10;                        &lt;div class=&quot;media-body&quot;&gt;&#10;                            &lt;h4&gt;John Doe&lt;/h4&gt;&#10;                            &lt;span&gt;&quot;Life is so...&quot;&lt;/span&gt;&#10;                        &lt;/div&gt;&#10;                    &lt;/div&gt;&#10;&#10;                    &lt;h5 class=&quot;sidebartitle actitle&quot;&gt;Account&lt;/h5&gt;&#10;                    &lt;ul class=&quot;nav nav-pills nav-stacked nav-bracket mb30&quot;&gt;&#10;&#10;                        &lt;li&gt;&lt;a href=&quot;profile.html&quot;&gt;&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt; &lt;span&gt;Profile&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#10;                        &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-cog&quot;&gt;&lt;/i&gt; &lt;span&gt;Account Settings&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#10;                        &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; &lt;span&gt;Help&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#10;                        &lt;li&gt;&lt;a href=&quot;signout.html&quot;&gt;&lt;i class=&quot;fa fa-sign-out&quot;&gt;&lt;/i&gt; &lt;span&gt;Sign Out&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#10;                    &lt;/ul&gt;&#10;                &lt;/div&gt;&#10;&#10;                &lt;h5 class=&quot;sidebartitle&quot;&gt;Navigation&lt;/h5&gt;&#10;                &lt;ul class=&quot;nav nav-pills nav-stacked nav-bracket&quot;&gt;&#10;                    &lt;li&gt; &lt;a&gt;&lt;i class=&quot;fa fa-bars&quot;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/li&gt;&#10;                    &lt;?php foreach($siteController-&gt;_menuItems as $menuItem): ?&gt;&#10;                        &lt;li&gt;&lt;a class=&quot;menu-item&quot; href=&quot;&lt;?php echo$menuItem['menu_href'];?&gt;&quot;&gt;&lt;i class=&quot;fa &lt;?php echo $menuItem['menu_icon_class'];?&gt;&quot;&gt;&lt;/i&gt; &lt;span&gt;&lt;?php echo $menuItem['menu_label']; ?&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#10;                    &lt;?php endforeach; ?&gt;&#10;&#10;                    &lt;li class=&quot;nav-parent&quot;&gt;&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-edit&quot;&gt;&lt;/i&gt; &lt;span&gt;Forms&lt;/span&gt;&lt;/a&gt;&#10;                        &lt;ul class=&quot;children&quot;&gt;&#10;                            &lt;li&gt;&lt;a href=&quot;#general-forms.html&quot; class=&quot;menu-item&quot;&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt; General Forms&lt;/a&gt;&lt;/li&gt;&#10;                            &lt;li&gt;&lt;a href=&quot;#form-layouts.html&quot; class=&quot;menu-item&quot;&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt; Form Layouts&lt;/a&gt;&lt;/li&gt;&#10;                            &lt;li&gt;&lt;a href=&quot;#form-validation.html&quot; class=&quot;menu-item&quot;&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt; Form Validation&lt;/a&gt;&lt;/li&gt;&#10;                            &lt;li&gt;&lt;a href=&quot;#form-wizards.html&quot; class=&quot;menu-item&quot;&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt; Form Wizards&lt;/a&gt;&lt;/li&gt;&#10;                            &lt;li&gt;&lt;a href=&quot;#wysiwyg.html&quot; class=&quot;menu-item&quot;&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt; Text Editor&lt;/a&gt;&lt;/li&gt;&#10;                            &lt;li&gt;&lt;a href=&quot;#code-editor.html&quot; class=&quot;menu-item&quot;&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt; Code Editor&lt;/a&gt;&lt;/li&gt;&#10;                            &lt;li&gt;&lt;a href=&quot;#x-editable.html&quot; class=&quot;menu-item&quot;&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt;&lt;/i&gt; X-Editable&lt;/a&gt;&lt;/li&gt;&#10;                        &lt;/ul&gt;&#10;&#10;                    &lt;/li&gt;&#10;&#10;                &lt;/ul&gt;&#10;&#10;&#10;            &lt;/div&gt;&lt;!-- leftpanelinner --&gt;&#10;        &lt;/div&gt;&lt;!-- leftpanel --&gt;&#10;&#10;&#10;    &lt;div class=&quot;headerbar&quot; style=&quot;background-color:inherit !important;&quot;&gt;&#10;&#9;&lt;center&gt;&lt;div class=&quot;breadcrumb-wrapper&quot;&gt;&#10;            &lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;&#10;&lt;!-- Display Leaderboard Ad --&gt;&#10;&lt;ins class=&quot;adsbygoogle&quot;&#10;     style=&quot;display:inline-block;width:728px;height:90px&quot;&#10;     data-ad-client=&quot;ca-pub-4688082653186078&quot;&#10;     data-ad-slot=&quot;5352702341&quot;&gt;&lt;/ins&gt;&#10;&lt;script&gt;&#10;(adsbygoogle = window.adsbygoogle || []).push({});&#10;&lt;/script&gt;&#10;        &lt;/div&gt;&lt;/center&gt;&#10;&#9;&#9;&#10;&#10;&#10;&#10;       &lt;div class=&quot;header-right&quot;&gt;&#10;&#10;    &lt;/div&gt;&lt;!-- header-right --&gt;&#10;&#10;    &lt;/div&gt;&lt;!-- headerbar --&gt;&#10;&#10;    &lt;div class=&quot;pageheader&quot;&gt;&#10;        &lt;h2&gt;&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt; People Directory&lt;/h2&gt;&#10;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div class=&quot;contentpanel&quot;&quot;&gt;&#10;&#10;&#10;        &lt;ul class=&quot;type-filter&quot;&gt;&#10;            &lt;li&gt;&lt;a href=&quot;#all&quot; class=&quot;mbti_type active-filter&quot; data-type=&quot;all&quot;&gt;All&lt;/a&gt;&lt;/li&gt;&#10;            &lt;?php foreach($mbtiTypes as $mbtiType): ?&gt;&#10;                &lt;li&gt;&lt;a href=&quot;#&lt;?php echo $mbtiType; ?&gt;&quot; class=&quot;mbti_type&quot; data-type=&quot;&lt;?php echo $mbtiType ?&gt;&quot;&gt;&lt;?php echo $mbtiType ?&gt;&lt;/a&gt;&lt;/li&gt;&#10;&#10;            &lt;?php endforeach; ?&gt;&#10;        &lt;/ul&gt;&#10;        &lt;div class=&quot;mb15&quot;&gt;&lt;/div&gt;&#10;        &lt;div class = &quot;grid-toolbar&quot;&gt;&#10;            &lt;form class=&quot;tool grid-searchform&quot; method=&quot;post&quot;&gt;&#10;                &lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;keyword&quot; placeholder=&quot;Filter on name&quot; data-filter=&quot;name&quot;&gt;&#10;                &lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;keyword&quot; placeholder=&quot;Filter on anime&quot; data-filter=&quot;anime&quot;&gt;&#10;            &lt;/form&gt;&#10;&#10;        &lt;/div&gt;&#10;&#10;        &lt;div class=&quot;mb15&quot;&gt;&lt;/div&gt;&#10;&#10;        &lt;div class=&quot;character-list&quot; id=&quot;itemgridwrapper&quot;&gt;&#10;&#10;        &lt;/div&gt;&lt;!-- character-list --&gt;&#10;&#10;    &lt;/div&gt;&lt;!-- contentpanel --&gt;&#10;&#10;    &lt;/div&gt;&lt;!-- mainpanel --&gt;&#10;&#10;    &lt;/div&gt;&lt;!-- tab-content --&gt;&#10;    &lt;/div&gt;&lt;!-- rightpanel --&gt;&#10;&#10;    &lt;/section&gt;&#10;&#10;&#10;    &lt;!-- library --&gt;&#10;    &lt;script src=&quot;lib/jquery-1.11.1.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/jquery-migrate-1.2.1.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/bootstrap.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/modernizr.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/jquery.sparkline.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/toggles.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/retina.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/jquery.cookies.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;lib/app.js&quot;&gt;&lt;/script&gt;&#10;&#10;&#10;&#10;&#10;    &lt;script src=&quot;lib/holder.js&quot;&gt;&lt;/script&gt;&#10;&#10;    &lt;script src=&quot;lib/custom.js&quot;&gt;&lt;/script&gt;&#10;&#10;    &lt;script&gt;&#10;        $(window).load(function(){&#10;&#10;&#10;&#10;            $( 'a[href=&quot;#&quot;]' ).click( function(e) {&#10;                e.preventDefault();&#10;            } );&#10;&#10;        });&#10;&#10;    &lt;/script&gt;&#10;&#10;&#10;    &lt;footer&gt;&#10;&#10;    &lt;/footer&gt;&#10;&#10;&#10;&#10;    &lt;/body&gt;&#10;&lt;/html&gt;" language="PHP" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/components/itemgrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="52" selection-start-line="98" selection-start-column="52" selection-end-line="98" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/toggles.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/components/model/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="109" column="95" selection-start-line="109" selection-start-column="95" selection-end-line="109" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/components/model/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="109" column="95" selection-start-line="109" selection-start-column="95" selection-end-line="109" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/components/model/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/components/model/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/toggles.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.206897">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/core-scripting.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/lib/model/AnimeFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/lib/model/AbstractModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/lib/model/Anime.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/services/character.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-47.423077">
+          <caret line="109" column="12" selection-start-line="108" selection-start-column="0" selection-end-line="112" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27783453">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/components/itemgrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ajax/dataprovider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="55.884617">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/js/MultiFielder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/js/jquery.cropit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.206897">
+          <caret line="280" column="35" selection-start-line="280" selection-start-column="27" selection-end-line="280" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/charactersave.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.653847">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/characterdelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/animedelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/service/animesave.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/lib/data/AbstractAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.218182">
+          <caret line="477" column="66" selection-start-line="477" selection-start-column="66" selection-end-line="477" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#3;n#tr#1;n#table#0;n#td#1;n#tr#1;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1447013042771" expanded="true" signature="2477:2496" placeholder="..." />
+            <marker date="1447013042771" expanded="true" signature="3891:3954" placeholder="..." />
+            <marker date="1447013042771" expanded="true" signature="4164:4191" placeholder="..." />
+            <marker date="1447013042771" expanded="true" signature="4967:5169" placeholder="..." />
+            <marker date="1447013042771" expanded="true" signature="6762:6793" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/intuitioncms/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.724138">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/lib/data/MysqliAdapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2789352">
+          <caret line="141" column="53" selection-start-line="141" selection-start-column="53" selection-end-line="141" selection-end-column="53" />
+          <folding>
+            <marker date="1446830419406" expanded="true" signature="980:1472" placeholder="SELECT `char..." />
+            <marker date="1446830419406" expanded="true" signature="1932:1998" placeholder="SELECT * FRO..." />
+            <marker date="1446830419406" expanded="true" signature="2452:2472" placeholder="SELECT * FRO..." />
+            <marker date="1446830419406" expanded="true" signature="2908:2955" placeholder="SELECT * FRO..." />
+            <marker date="1446830419406" expanded="true" signature="3352:3400" placeholder="DELETE FROM ..." />
+            <marker date="1446830419406" expanded="true" signature="3358:3375" placeholder="SELECT * FRO..." />
+            <marker date="1446830419406" expanded="true" signature="3834:3874" placeholder="DELETE FROM ..." />
+            <marker date="1446830419406" expanded="true" signature="4757:4855" placeholder="INSERT INTO ..." />
+            <marker date="1446830419406" expanded="true" signature="5527:5605" placeholder="SELECT `char..." />
+            <marker date="1446830419406" expanded="true" signature="5527:6370" placeholder="SELECT * FRO..permlog..." />
+            <marker date="1446830419406" expanded="true" signature="6523:6586" placeholder="DELETE FROM ..." />
+            <marker date="1446830419406" expanded="true" signature="6901:6978" placeholder="INSERT INTO ..." />
+            <marker date="1446830419406" expanded="true" signature="6978:7023" placeholder="INSERT INTO ..." />
+            <marker date="1446830419406" expanded="true" signature="7464:7496" placeholder="INSERT INTO ..." />
+            <marker date="1446830419406" expanded="true" signature="8295:8669" placeholder="SELECT `char..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -8,15 +8,17 @@
 
 namespace config;
 
-
-
+/**
 define("mysql_username", "anime-types.com");
 define("mysql_password", "KaoloKanker2");
 define("mysql_host", "localhost");
 define("mysql_database", "anime-types.com");
+**/
 
-
-
+define("mysql_username", "root");
+define("mysql_password", "");
+define("mysql_host", "localhost");
+define("mysql_database", "anime-types.com");
 
 static $mbtiTypes = array(
     "INTJ",
@@ -39,4 +41,6 @@ static $mbtiTypes = array(
 
 $configVariables["SERVICES_PATH"] = "/services";
 $configVariables["SERVICE_URL_CHARACTER"] = "/character.php";
-$configVariables["SITE_URL"] = "http://$_SERVER[HTTP_HOST]";
+//$configVariables["SITE_URL"] = "http://$_SERVER[HTTP_HOST]";
+$configVariables["SITE_URL"] = "http://localhost/Animetypes/animetypes/www";
+$configVariables["IMAGES_FOLDER"] = "/media/images";

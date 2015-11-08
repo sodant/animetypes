@@ -31,13 +31,10 @@
                     this.itemGrid = new ItemGrid("itemgridwrapper", "mbti_type");
                 }
 
-
                 if(routeVariables[0] && checkForTypeFilter(routeVariables[0])){
                     this.itemGrid.setTypeFilter(routeVariables[0]);
 
                 }else {
-
-                    console.log("not in");
 
                     this.itemGrid.setTypeFilter();
                 }

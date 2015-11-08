@@ -60,7 +60,10 @@ function Item(id, name, image, anime, type){
         gridItem.prop("id", this.domId);
         gridItem.prop("href", "#character/"+this.alias);
 
-        var imageUrl = "../media/images/characters/"+this.image;
+        var imageUrl = SITE_URL + IMAGES_FOLDER + "/characters/"+this.image;
+        console.log(imageUrl);
+
+
         var imageBackground = "#151a22 url('"+imageUrl+"') no-repeat";
 
         gridItem.css({display: "none"});

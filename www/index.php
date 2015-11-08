@@ -65,12 +65,13 @@ $siteController->init();
     <div id="preloader" style="display: none;">
         <div id="status"><i class="fa fa-spinner fa-spin"></i></div>
     </div>
+    <a class="menutoggle">
+        <i class="fa fa-bars"></i>
+    </a>
 
 
 
     <section>
-
-
 
     <div class="mainpanel">
 
@@ -94,6 +95,7 @@ $siteController->init();
 
                     <h5 class="sidebartitle actitle">Account</h5>
                     <ul class="nav nav-pills nav-stacked nav-bracket mb30">
+
                         <li><a href="profile.html"><i class="fa fa-user"></i> <span>Profile</span></a></li>
                         <li><a href=""><i class="fa fa-cog"></i> <span>Account Settings</span></a></li>
                         <li><a href=""><i class="fa fa-question-circle"></i> <span>Help</span></a></li>
@@ -103,6 +105,7 @@ $siteController->init();
 
                 <h5 class="sidebartitle">Navigation</h5>
                 <ul class="nav nav-pills nav-stacked nav-bracket">
+                    <li> <a><i class="fa fa-bars"></i> </a></li>
                     <?php foreach($siteController->_menuItems as $menuItem): ?>
                         <li><a class="menu-item" href="<?php echo$menuItem['menu_href'];?>"><i class="fa <?php echo $menuItem['menu_icon_class'];?>"></i> <span><?php echo $menuItem['menu_label']; ?></span></a></li>
                     <?php endforeach; ?>

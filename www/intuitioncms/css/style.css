@@ -1,0 +1,194 @@
+html,body { height:100%; }
+body{
+    background-color:#1d2939!important;
+}
+
+.content{
+    height:100%;
+    background-color:#1d2939;
+}
+
+.main-table-wrapper{
+    background-color:#fff;
+    width: 80%;
+}
+.topbar {
+    top:0px;
+    background-color:#151a22;
+    height:35px;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+.topbar #logout-button{
+    width:80px;
+    float:right;
+}
+
+.topbar #toolbar{
+    float:left;
+}
+
+.topbar .menuwrapper{
+
+    width: 80%;
+}
+
+.portrait-holder{
+    min-height:200px;
+}
+
+.picedit_box{
+    width:100%!important;
+}
+
+.topbar #new-character-button{
+
+}
+.main-table{
+    margin-top:35px;
+    width:100%;
+    background-color:#fff;
+    font-size:1.5em;
+}
+
+.main-table td{
+    vertical-align: top;
+    overflow:hidden;
+}
+
+.main-table .anime-name{
+    vertical-align: top;
+}
+
+.main-table .character-name{
+
+    width: 44%;
+
+}
+
+.sub-table{
+    width:100%;
+}
+
+#edit-character table {
+
+    width:100%;
+
+}
+
+#edit-character .character-quote-table td:nth-child(2){
+    text-align: right;
+    width: 3%;
+}
+
+textarea {
+    resize: none;
+}
+
+.delete-button, .edit-character-button{
+    cursor:pointer;
+}
+
+.delete-button:hover {
+
+    color:#ff0000;
+}
+
+.edit-character-button:hover{
+    color:#428bca;
+}
+
+.details-holder-wrapper, .portrait-holder-wrapper{
+    width:50%;
+    vertical-align: top;
+}
+
+.details-holder-wrapper {
+    padding-left: 20px;
+}
+
+
+.cropit-image-preview {
+    background-color: #f8f8f8;
+    background-size: cover;
+    border: 1px solid #ccc;
+    margin-top: 7px;
+    width: 450px;
+    height: 300px;
+    cursor: move;
+    -moz-border-radius: 3px!important;
+    -webkit-border-radius: 3px!important;
+    border-radius: 3px!important;
+}
+
+.delete-ajax-loader{
+
+    margin-bottom: 9px;
+}
+
+.cropit-image-background {
+    opacity: .2;
+    cursor: auto;
+}
+
+.image-size-label {
+    margin-top: 10px;
+}
+
+input {
+    display: block;
+}
+
+button[type="submit"] {
+    margin-top: 10px;
+}
+
+#result {
+    margin-top: 10px;
+    width: 900px;
+}
+
+#result-data {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+
+.characters-counter{
+
+    width:40px;
+    display:inline-block;
+}
+
+.white-background {
+    background-color:#fff;
+    height:100%;
+    width:100%;
+    position:fixed;
+    top:0px;
+    opacity:0.7;
+    display:none;
+    z-index: 10000;
+}
+
+.refresh-ajax-loader{
+
+    display:block;
+    margin:0 auto;
+    margin-top:15vh;
+}
+
+.form-signin{
+    background-color:#fff;
+    padding:10px;
+    -webkit-border-bottom-right-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}

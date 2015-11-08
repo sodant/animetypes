@@ -6,13 +6,6 @@ background-position: center center;
 background-repeat: no-repeat;
 }
 
-.fa-bars
-{
-visibility:hidden !important;
-display: none !important;
-background-image:none !important;
-}
-
 .type-filter li a, .mbti-type
 {
 font-weight:100 !important;

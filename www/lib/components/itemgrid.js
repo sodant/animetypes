@@ -34,7 +34,6 @@ function ItemGrid(gridWrapperId, filterId){
         }
 
         scrolling = true;
-        self.count = self.items.length;
 
     }
 
@@ -85,6 +84,7 @@ function ItemGrid(gridWrapperId, filterId){
                 if(!executed){
                     executed=true;
                     self.items = [];
+                    self.count = 8;
                     self.dataProvider.getAllCharacters(SERVICES_PATH+SERVICE_URL_CHARACTER,self.filter);
                 }
             });
@@ -92,10 +92,10 @@ function ItemGrid(gridWrapperId, filterId){
         }
         else
         {
-
             self.dataProvider.getAllCharacters(SERVICES_PATH+SERVICE_URL_CHARACTER, self.filter);
-
         }
+
+        self.count += self.filter.limit;
 
     }
 
@@ -198,8 +198,8 @@ function ItemGrid(gridWrapperId, filterId){
             
             var limit  = 4;
             var filterClone = $.extend({}, self.filter, {row_offset:self.count, limit:limit});
-            self.dataProvider.getAllCharacters(SERVICES_PATH+SERVICE_URL_CHARACTER, filterClone);
             self.count+=limit;
+            self.dataProvider.getAllCharacters(SERVICES_PATH+SERVICE_URL_CHARACTER, filterClone);
         }
     });
 
