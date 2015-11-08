@@ -35,7 +35,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/intuitioncms/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.8461537">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="24" />
               <folding />
             </state>
@@ -45,8 +45,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5035545">
-              <caret line="106" column="66" selection-start-line="106" selection-start-column="66" selection-end-line="106" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.54383886">
+              <caret line="159" column="93" selection-start-line="159" selection-start-column="93" selection-end-line="159" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -923,7 +923,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/intuitioncms/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.8461537">
+        <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="24" />
           <folding />
         </state>
@@ -931,8 +931,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5035545">
-          <caret line="106" column="66" selection-start-line="106" selection-start-column="66" selection-end-line="106" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.54383886">
+          <caret line="159" column="93" selection-start-line="159" selection-start-column="93" selection-end-line="159" selection-end-column="93" />
           <folding />
         </state>
       </provider>

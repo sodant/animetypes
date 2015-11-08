@@ -156,8 +156,8 @@ $siteController->init();
         <div class="mb15"></div>
         <div class = "grid-toolbar">
             <form class="tool grid-searchform" method="post">
-                <input type="text" class="form-control" name="keyword" placeholder="Filter on name" data-filter="name">
-                <input type="text" class="form-control" name="keyword" placeholder="Filter on anime" data-filter="anime">
+                <input type="text" class="form-control" name="keyword" placeholder="Filter by name" data-filter="name">
+                <input type="text" class="form-control" name="keyword" placeholder="Filter by anime" data-filter="anime">
             </form>
 
         </div>
